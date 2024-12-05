@@ -1,6 +1,13 @@
-# My Dotfiles
-These are my dotfile configuration files for different software in Bash.
-## .nanorc
-This is my custom .nanorc configuration for Nano.
-## .bashrc
-This is my custom .bashrc configuration for Bash.
+This repository conatins my setup files and scripts.
+
+#Installing
+I use Makefile to run scripts
+"make clean" will remove current settings
+"make linux" will add settings from .nanorc
+
+#.nanorc
+Contains the settiings for nano editing. Feel free to edit this.
+
+#bashrc_custom
+Contains useful aliases and functions
+
