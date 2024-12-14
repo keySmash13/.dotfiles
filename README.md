@@ -1,4 +1,4 @@
-This repository conatins my setup files and scripts.
+## This repository conatins my setup files and scripts.
 
 # Installing
 I use Makefile to run scripts
